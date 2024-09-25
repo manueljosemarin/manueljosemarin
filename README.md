@@ -5,3 +5,7 @@ I am a student passionate about software development and Quality Assurance Autom
 - **Email:** [mnljsmrn@gmail.com](mailto:mnljsmrn@gmail.com)
 - **GitHub:** [Your GitHub Profile](https://github.com/manueljosemarin)
 
+## Languages
+- **Spanish**: Native
+- **English**: Proficient (C2)
+- **French**: Basic
