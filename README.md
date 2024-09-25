@@ -23,3 +23,8 @@ I am a student passionate about software development and Quality Assurance Autom
 - **API Testing**: Rest Assured
 - **Performance Testing**: JMeter
 
+## Hobbies
+When I’m not working on improving my testing skills, I enjoy:
+- Reading about chemistry and technology
+- Exploring new distillation techniques and crafting beverages
+- Learning new programming tools and improving my coding practices
