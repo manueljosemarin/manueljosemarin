@@ -6,9 +6,10 @@ I am a student passionate about software development and Quality Assurance Autom
 - **GitHub:** [Your GitHub Profile](https://github.com/manueljosemarin)
 
 ## Technologies I'm Learning
-- MySQL
-- Java
-- JUnit-Maven-Mockito
-- Testing Automation
-- JMeter
-- Serenity
+- **Version Control**: Git, GitHub
+- **Testing Tools**: Selenium, JUnit, Mockito
+- **Database Management**: MySQL
+- **Programming Languages**: Java
+- **Automation Frameworks**: Serenity, Page Object Model
+- **API Testing**: Rest Assured
+- **Performance Testing**: JMeter
