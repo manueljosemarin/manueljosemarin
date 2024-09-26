@@ -5,3 +5,8 @@ I am a student passionate about software development and Quality Assurance Autom
 - **Email:** [mnljsmrn@gmail.com](mailto:mnljsmrn@gmail.com)
 - **GitHub:** [Your GitHub Profile](https://github.com/manueljosemarin)
 
+
+
+## Currently Learning
+- Deepening skills in **Cypress** and **Selenium** for automation testing
+- Exploring **API Testing** with **Postman** and **Rest Assured**
