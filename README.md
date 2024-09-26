@@ -26,9 +26,12 @@ I am a student passionate about software development and Quality Assurance Autom
 - **English**: Proficient (C2)
 - **French**: Basic
 
+## Currently Learning
+- Deepening skills in **Cypress** and **Selenium** for automation testing
+- Exploring **API Testing** with **Postman** and **Rest Assured**
+
 ## Hobbies
 When I’m not working on improving my testing skills, I enjoy:
 - Reading about chemistry and technology
 - Exploring new distillation techniques and crafting beverages
 - Learning new programming tools and improving my coding practices
-
