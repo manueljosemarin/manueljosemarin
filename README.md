@@ -1,23 +1,24 @@
 # Hello! I'm Manuel
 ## About me
-I am a student passionate about software development and Quality Assurance Automation. Currently, I am diving deep into the world of QA automation to ensure high-quality software delivery, with a strong focus on learning testing frameworks and continuous integration practices.
+I am a QA engineer passionate about software development and Quality Assurance Automation. Currently, I am diving deep into the world of QA automation to ensure high-quality software delivery, with a strong focus on learning testing frameworks and continuous integration practices.
 ## Contact me
 - **Email:** [mnljsmrn@gmail.com](mailto:mnljsmrn@gmail.com)
 - **GitHub:** [Your GitHub Profile](https://github.com/manueljosemarin)
 
 ## Skills
-- **Programming**: Java, OOP, data structures
+- **Programming**: Java, data structures
 - **Version Control**: Git, GitHub
-- **Manual & Automated Testing**: Selenium, JUnit, test case creation, defect tracking
+- **Manual & Automated Testing**: Selenium, JUnit, test case design, defect tracking
 - **Database Management**: MySQL
 - **API & Performance Testing**: Rest Assured, JMeter
 
 ## Technologies
 - **Version Control**: Git, GitHub
+- **Defect Tracking**: Jira, TestLink
 - **Testing Tools**: Selenium, JUnit, Mockito, Cypress
 - **Database Management**: MySQL
-- **Programming Languages**: Java
-- **Automation Frameworks**: Serenity, Page Object Model
+- **Programming Languages**: Java, Python
+- **Automation Frameworks**: Serenity
 - **API Testing**: Rest Assured
 - **Performance Testing**: JMeter
 
@@ -27,7 +28,7 @@ I am a student passionate about software development and Quality Assurance Autom
 - **French**: Basic
 
 ## Currently Learning
-- Deepening skills in **Cypress** and **Selenium** for automation testing
+- Deepening skills in **Selenium** for automation testing
 - Exploring **API Testing** with **Postman** and **Rest Assured**
 
 ## Hobbies
